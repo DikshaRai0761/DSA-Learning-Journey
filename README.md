@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
