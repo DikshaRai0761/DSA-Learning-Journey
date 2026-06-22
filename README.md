@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
