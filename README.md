@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
