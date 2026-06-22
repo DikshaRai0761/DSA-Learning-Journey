@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
