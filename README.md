@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
