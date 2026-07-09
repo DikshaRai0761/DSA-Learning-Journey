@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0074-search-a-2d-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
