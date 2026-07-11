@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## Union-Find
 |  |
