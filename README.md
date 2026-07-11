@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
