@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0242-valid-anagram) |
@@ -232,9 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
