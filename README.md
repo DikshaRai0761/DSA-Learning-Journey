@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0018-4sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
