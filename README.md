@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,17 +214,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
