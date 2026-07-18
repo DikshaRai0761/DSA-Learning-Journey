@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0283-move-zeroes) |
+| [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
+| [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
