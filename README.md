@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
+| [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## Union-Find
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
