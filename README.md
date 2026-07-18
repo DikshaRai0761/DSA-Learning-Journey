@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0179-largest-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0205-isomorphic-strings) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -291,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0707-design-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
