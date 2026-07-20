@@ -229,15 +229,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 ## Trie
 |  |
 | ------- |
