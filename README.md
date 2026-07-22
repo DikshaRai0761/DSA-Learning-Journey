@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0066-plus-one) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
