@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
+| [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
