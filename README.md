@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0220-contains-duplicate-iii) |
+| [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Tree
 |  |
 | ------- |
@@ -399,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
