@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0933-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
