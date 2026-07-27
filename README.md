@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -404,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
 | ------- |
