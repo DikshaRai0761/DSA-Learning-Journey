@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
