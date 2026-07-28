@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
