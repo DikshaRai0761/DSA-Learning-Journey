@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
