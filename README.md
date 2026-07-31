@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
@@ -523,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
