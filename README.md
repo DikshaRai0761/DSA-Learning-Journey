@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
