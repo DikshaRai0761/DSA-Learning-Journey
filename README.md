@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
