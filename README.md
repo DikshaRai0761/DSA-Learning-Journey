@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
