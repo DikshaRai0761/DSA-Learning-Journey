@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quickselect
 |  |
 | ------- |
