@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
+| [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Stack
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
