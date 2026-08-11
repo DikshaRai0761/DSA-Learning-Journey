@@ -1,0 +1,40 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> findAnagrams(String s, String p) {
+
+        List<Integer> ans = new ArrayList<>();
+
+        if (s.length() < p.length()) {
+            return ans;
+        }
+
+        int[] pCount = new int[26];
+        int[] count = new int[26];
+
+        
+        for (int i = 0; i < p.length(); i++) {
+            pCount[p.charAt(i) - 'a']++;
+        }
+
+        int left = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+
+            count[s.charAt(right) - 'a']++;
+
+            
+            if (right - left + 1 > p.length()) {
+                count[s.charAt(left) - 'a']--;
+                left++;
+            }
+
+        
+            if (Arrays.equals(pCount, count)) {
+                ans.add(left);
+            }
+        }
+
+        return ans;
+    }
+}
