@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -616,4 +618,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
