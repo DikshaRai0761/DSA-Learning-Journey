@@ -3,20 +3,22 @@ public class Solution extends VersionControl {
 
         int low = 1;
         int high = n;
-        int ans = n;
 
-        while (low <= high) {
+        while (low < high) {
 
             int mid = low + (high - low) / 2;
 
             if (isBadVersion(mid)) {
-                ans = mid;
-                high = mid - 1;
+                // mid bad hai
+                // first bad mid ya usse pehle ho sakta hai
+                high = mid;
             } else {
+                // mid good hai
+                // first bad mid ke baad hoga
                 low = mid + 1;
             }
         }
 
-        return ans;
+        return low;
     }
 }
