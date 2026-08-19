@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
