@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
