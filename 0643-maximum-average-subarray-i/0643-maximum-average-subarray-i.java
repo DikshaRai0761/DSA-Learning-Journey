@@ -3,16 +3,18 @@ class Solution {
 
         int sum = 0;
 
-        // First window
+        // First window ka sum
         for (int i = 0; i < k; i++) {
             sum += nums[i];
         }
 
         int maxSum = sum;
 
-        // Sliding window
+        // Window slide karo
         for (int i = k; i < nums.length; i++) {
-            sum = sum - nums[i - k] + nums[i];
+
+            sum = sum + nums[i] - nums[i - k];
+
             maxSum = Math.max(maxSum, sum);
         }
 
