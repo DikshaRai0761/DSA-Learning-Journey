@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Matrix
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Data Stream
 |  |
 | ------- |
@@ -640,11 +643,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1670-design-front-middle-back-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1670-design-front-middle-back-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Reservoir Sampling
 |  |
 | ------- |
