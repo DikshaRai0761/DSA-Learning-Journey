@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1696-jump-game-vi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1696-jump-game-vi) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 ## Hash Function
 |  |
 | ------- |
