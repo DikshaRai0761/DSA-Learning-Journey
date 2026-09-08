@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
@@ -701,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1670-design-front-middle-back-queue) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
