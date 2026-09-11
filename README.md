@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
