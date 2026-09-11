@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0784-letter-case-permutation) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Union-Find
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
