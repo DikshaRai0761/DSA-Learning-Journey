@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
