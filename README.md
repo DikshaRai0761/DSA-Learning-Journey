@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0388-longest-absolute-file-path) |
