@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0202-happy-number) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
