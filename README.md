@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0148-sort-list) |
