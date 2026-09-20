@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1670-design-front-middle-back-queue) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 ## Memoization
 |  |
 | ------- |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1696-jump-game-vi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1696-jump-game-vi) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Data Stream
 |  |
@@ -693,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -750,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
 | [1395-count-number-of-teams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1395-count-number-of-teams) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 ## Interactive
 |  |
 | ------- |
@@ -784,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1395-count-number-of-teams) |
+| [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
