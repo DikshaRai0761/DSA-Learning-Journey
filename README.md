@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
+| [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
