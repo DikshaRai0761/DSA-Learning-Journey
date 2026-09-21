@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
