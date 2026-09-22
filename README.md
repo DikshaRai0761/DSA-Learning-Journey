@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
