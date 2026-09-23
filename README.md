@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0875-koko-eating-bananas) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
+| [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0784-letter-case-permutation) |
+| [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
+| [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 ## Simulation
 |  |
 | ------- |
