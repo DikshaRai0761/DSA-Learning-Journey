@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
+| [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
+| [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 ## Simulation
 |  |
 | ------- |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 ## Depth-First Search
 |  |
 | ------- |
