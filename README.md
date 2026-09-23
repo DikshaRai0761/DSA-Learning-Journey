@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
 | [2424-longest-uploaded-prefix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2540-minimum-common-value) |
 ## String
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0336-palindrome-pairs) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -824,4 +828,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
