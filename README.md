@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
+| [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1395-count-number-of-teams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1395-count-number-of-teams) |
 | [1696-jump-game-vi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1696-jump-game-vi) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -845,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2261-k-divisible-elements-subarrays) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
