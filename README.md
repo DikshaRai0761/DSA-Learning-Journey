@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0705-design-hashset) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -706,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1696-jump-game-vi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1696-jump-game-vi) |
