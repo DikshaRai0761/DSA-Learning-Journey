@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0658-find-k-closest-elements) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -637,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
