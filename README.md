@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1052-grumpy-bookstore-owner) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1652-defuse-the-bomb) |
