@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0978-longest-turbulent-subarray) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0541-reverse-string-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0784-letter-case-permutation) |
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
