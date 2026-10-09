@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0936-stamping-the-sequence) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
