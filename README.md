@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-camelcase-matching](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1023-camelcase-matching) |
 | [1052-grumpy-bookstore-owner](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1052-grumpy-bookstore-owner) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0837-new-21-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0978-longest-turbulent-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1395-count-number-of-teams](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1395-count-number-of-teams) |
 | [1696-jump-game-vi](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1696-jump-game-vi) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
