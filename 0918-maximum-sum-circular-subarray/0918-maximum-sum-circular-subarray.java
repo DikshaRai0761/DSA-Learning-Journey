@@ -1,35 +1,23 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-
-        int total = 0;
-
-        int maxSum = nums[0];
-        int currentMax = nums[0];
-
-        int minSum = nums[0];
-        int currentMin = nums[0];
-
-        for (int i = 0; i < nums.length; i++) {
-
-            total += nums[i];
-
-            // Kadane for maximum subarray
-            if (i > 0) {
-                currentMax = Math.max(nums[i], currentMax + nums[i]);
-                maxSum = Math.max(maxSum, currentMax);
-
-                // Kadane for minimum subarray
-                currentMin = Math.min(nums[i], currentMin + nums[i]);
-                minSum = Math.min(minSum, currentMin);
-            }
+      int totalSum=0;
+      int maxSum=nums[0];
+      int maxEnding=nums[0];
+      int minSum=nums[0];
+      int minEnding=nums[0];
+      for(int i=0; i<nums.length; i++){
+        totalSum+=nums[i];
+        if(i>0){
+            maxEnding=Math.max(nums[i], maxEnding+nums[i]);
+            maxSum=Math.max(maxSum, maxEnding);
+            minEnding=Math.min(nums[i], minEnding+nums[i]);
+            minSum=Math.min(minSum,minEnding);
         }
-
-        // All elements are negative
-        if (maxSum < 0) {
-            return maxSum;
-        }
-
-        // Maximum of normal and circular subarray
-        return Math.max(maxSum, total - minSum);
+      }
+      if(maxSum<0){
+        return maxSum;
+      }  
+      int A2=totalSum-minSum;
+      return Math.max(maxSum,A2);
     }
 }
