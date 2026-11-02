@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0503-next-greater-element-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0503-next-greater-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0509-fibonacci-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0523-continuous-subarray-sum) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0611-valid-triangle-number) |
