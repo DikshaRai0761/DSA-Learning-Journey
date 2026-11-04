@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0962-maximum-width-ramp) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0771-jewels-and-stones) |
 | [0820-short-encoding-of-words](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0820-short-encoding-of-words) |
 | [0888-fair-candy-swap](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0888-fair-candy-swap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0731-my-calendar-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/1480-running-sum-of-1d-array) |
