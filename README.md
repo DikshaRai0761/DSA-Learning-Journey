@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0443-string-compression) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0415-add-strings) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DikshaRai0761/DSA-Learning-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
